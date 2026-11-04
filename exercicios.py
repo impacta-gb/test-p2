@@ -59,6 +59,7 @@ def obter_proximo_cliente():
 def registrar_atendimento(cliente):
     return True
 
+
 def atender_proximo_cliente():
     cliente = obter_proximo_cliente()
     
